@@ -1,0 +1,21 @@
+{
+  "name": "rome-test",
+  "version": "1.0.0",
+  "description": "Testing Rome",
+  "main": "index.js",
+  "scripts": {
+    "lint": "rome lint",
+    "start": "rome run index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admmasters/rome-test.git"
+  },
+  "keywords": [],
+  "author": "Matt Revell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admmasters/rome-test/issues"
+  },
+  "homepage": "https://github.com/admmasters/rome-test#readme"
+}
